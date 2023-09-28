@@ -1,0 +1,14 @@
+{
+  "credential": {
+    "validEmail": "xyz@gmail.com",
+    "invalidEmail": "xyzgmail.com",
+    "invalidPassword": "12344",
+    "name": "Mitchell Admin"
+  },
+  "message": {
+    "validation": "Please fill out this field.",
+    "emailValidation": "Invalid Email Address!",
+    "error": "Wrong login/password",
+    "multipleError": "Too many login failures, please wait a bit before trying again."
+  }
+}

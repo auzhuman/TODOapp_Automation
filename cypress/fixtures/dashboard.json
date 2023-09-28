@@ -1,0 +1,26 @@
+{
+  "URL": {
+    "inboxURL": "/web#action=97&active_id=mailbox_inbox&cids=1&menu_id=79",
+    "todoURL": "/web#action=150&cids=&menu_id=107"
+  },
+  "task": {
+    "longTaskName": "This is my long task name it is greater than 20 characters and it should be always less than 20 characters",
+    "taskName": "Cook Food",
+    "dateTime": "02/01/20234:37PM",
+    "checkDateTime": "02/01/2023 4:37 PM",
+    "listName": "Human"
+  },
+  "priority": ["Low", "Medium", "High"],
+  "message": {
+    "validation": "Please fill out this field.",
+    "emailValidation": "Invalid Email Address!",
+    "error": "Wrong login/password",
+    "multipleError": "Too many login failures, please wait a bit before trying again.",
+    "textLength": "Text is not longer than 20 chars"
+  },
+  "taskSelector" :{
+    "overDue" : ".card.overdue-task h1",
+    "upcoming" : ".card.upcoming-task h1",
+    "today" : ".card.today-task h1"
+  }
+}

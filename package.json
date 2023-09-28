@@ -1,0 +1,18 @@
+{
+  "name": "todo-app-automation",
+  "version": "1.0.0",
+  "description": "This automation tests the todo app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.bajratechnologies.com:human_auz/todo-app-automation.git"
+  },
+  "author": "human singh hitang",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}

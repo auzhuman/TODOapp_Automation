@@ -1,0 +1,10 @@
+/node_modules
+package-*
+
+/fixtures
+readme.md
+
+cypress.env.json
+
+temp.txt
+accord*
